@@ -1,4 +1,4 @@
-# Green-Sheet---Green-Reads[README.md](https://github.com/user-attachments/files/33506430/README.md)
+# Green-Sheet-to-Green-Reads[README.md](https://github.com/user-attachments/files/33506430/README.md)
 # Putt Map
 
 Turn a golf green sheet into a 3D elevation model, then roll a simulated ball on it to get the aim for every putt around a pin.
